@@ -26,3 +26,12 @@ Get an Outgoing Request based on the id passed http://localhost:8090/outgoing/{i
 ## Testing
 
 - Basic tests covered for Java classes with 100% coverage(Refer to attached screenshot)
+
+## TODO
+The following tasks were not completed in the interest of time.
+- ObjectMapper for JSON validation.
+- Authorization using Oath/Access token for security
+- Load balancing can be impemented using Ribbon
+- Service discovery can be implemented using Eureka
+- Fault Tolerance can be achieved using Hystrix.
+- Tests can be added for boundary conditions.
